@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-09T13:46:05 PDT" name="Suite" finished-at="2022-08-09T13:46:57 PDT" duration-ms="52371">
+    <groups>
+      <group name="Smoke">
+        <method signature="eCommerce_tc_4_Hybrid.FillForm(java.util.HashMap)[pri:0, instance:org.rahulshettyacademy.eCommerce_tc_4_Hybrid@4f9a2c08]" name="FillForm" class="org.rahulshettyacademy.eCommerce_tc_4_Hybrid"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2022-08-09T13:46:05 PDT" name="End to end Framework Test" finished-at="2022-08-09T13:46:56 PDT" duration-ms="51833">
+      <class name="org.rahulshettyacademy.eCommerce_tc_4_Hybrid">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:org.rahulshettyacademy.eCommerce_tc_4_Hybrid@4f9a2c08]" started-at="2022-08-09T13:46:05 PDT" name="configureAppium" finished-at="2022-08-09T13:46:13 PDT" duration-ms="7805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:org.rahulshettyacademy.eCommerce_tc_4_Hybrid@4f9a2c08]" started-at="2022-08-09T13:46:13 PDT" name="preSetup" finished-at="2022-08-09T13:46:13 PDT" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method signature="FillForm(java.util.HashMap)[pri:0, instance:org.rahulshettyacademy.eCommerce_tc_4_Hybrid@4f9a2c08]" started-at="2022-08-09T13:46:13 PDT" name="FillForm" data-provider="getData" finished-at="2022-08-09T13:46:32 PDT" duration-ms="18691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Monk, country=Argentina, gender=female}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillForm -->
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:org.rahulshettyacademy.eCommerce_tc_4_Hybrid@4f9a2c08]" started-at="2022-08-09T13:46:32 PDT" name="preSetup" finished-at="2022-08-09T13:46:33 PDT" duration-ms="638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method signature="FillForm(java.util.HashMap)[pri:0, instance:org.rahulshettyacademy.eCommerce_tc_4_Hybrid@4f9a2c08]" started-at="2022-08-09T13:46:33 PDT" name="FillForm" data-provider="getData" finished-at="2022-08-09T13:46:52 PDT" duration-ms="18801" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=shetty A, country=Argentina, gender=male}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.rahulshettyacademy.eCommerce_tc_4_Hybrid@4f9a2c08]" started-at="2022-08-09T13:46:52 PDT" name="tearDown" finished-at="2022-08-09T13:46:56 PDT" duration-ms="4912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.rahulshettyacademy.eCommerce_tc_4_Hybrid -->
+    </test> <!-- End to end Framework Test -->
+    <test started-at="2022-08-09T13:46:57 PDT" name="Error Validations Test" finished-at="2022-08-09T13:46:57 PDT" duration-ms="4">
+    </test> <!-- Error Validations Test -->
+    <test started-at="2022-08-09T13:46:57 PDT" name="IOS Test" finished-at="2022-08-09T13:46:57 PDT" duration-ms="0">
+    </test> <!-- IOS Test -->
+  </suite> <!-- Suite -->
+</testng-results>
