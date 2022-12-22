@@ -1,6 +1,7 @@
 # Appium Mobile Testing Project
 
 ### Appium (Android & IOS) Hybrid Framework Development For E-Commerce Mobile Application Testing
+#### This Appium Mobile testing project consist of Page Object Factory pattern and Data Driven for Android & IOS commonly used methods from AppiumUtils Class. Below lists all of the technical details used.
 
 * Build Page object Factory pattern to drive the Element locators to the Tests
 * Implemented Android & IOS Page object repositories for the respective Platform tests
