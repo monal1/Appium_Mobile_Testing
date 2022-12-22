@@ -1,4 +1,4 @@
-# Appium_Mobile_Testing
+# Appium Mobile Testing Project
 
 ### Appium (Android & IOS) Hybrid Framework Development For E-Commerce Mobile Application Testing
 
