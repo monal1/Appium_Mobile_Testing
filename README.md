@@ -20,3 +20,6 @@
 * Implemented Run time variables inputs through Maven and adjust the code accordingly to receive inputs
 * Integrated the Full Framework Project with Jenkins CI/CD tool and parameterized the job with run time variables
 * Enhanced and integrate the framework with Cloud infrastructure to schedule tests on cloud device with Parallel execution
+
+
+![Screen Shot 2023-01-26 at 4 07 27 PM](https://user-images.githubusercontent.com/6644039/214977996-4938b676-4aad-43b9-adc0-5e1f61035136.png)
